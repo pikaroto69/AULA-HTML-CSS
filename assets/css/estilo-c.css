@@ -1,0 +1,121 @@
+html, body, footer{
+    margin: 0;
+    padding: 0;
+    font-family:Arial, Helvetica, sans-serif;    
+}
+header {
+    background-color: rgb(0, 79, 198);
+    padding-top: 30px;
+    padding-left: 300px;
+    padding-bottom: 30px;
+    padding-right: 300px;
+    margin: none;
+    margin-bottom: 20px;
+}
+
+.logoheader {
+    text-align: center;
+}
+
+.logosenai {
+    width: 40%;
+}
+
+.botao {
+    text-align: center;
+}
+
+.d7{
+    margin-top: 15px;
+    background-color: #004FC6;
+    color: white;
+    padding: 15px;
+    border-radius: 13px;
+    text-decoration: none;
+    margin: 15px;
+}
+.bn {
+    background-color: white;
+    text-align: center;
+    width: 400px;
+    height: 400px;
+    left: 29px;
+    padding: 1em;   
+    margin: 2em; 
+    border-radius: 38px;
+    margin-left: 9em;
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.07);
+}
+.cursos{
+    margin-top: -10px;
+    background-color: lightgray;
+}
+.imgmk{
+    width: 400px;
+}
+h1{
+    font-size: 30px;
+    color:white
+}
+footer {
+    background-color: #004FC6;
+    margin-bottom: 0%;
+}
+
+.rede {
+    text-align: center;
+    background-color: darkblue;
+}
+
+.insta {
+    width: 50px;
+    margin-right: 10px;
+    margin-top: 5px;
+}
+
+.face {
+    margin-top: 5px;
+    width: 35px;
+}
+
+.endereco {
+    color: white;
+}
+
+.h2senai {
+    color: white;
+    margin-bottom: -10px;
+}
+.titulo{
+    background-color: rgb(52, 49, 49);
+    text-align: center;
+    width: 230px;
+    height: 40px;
+    left: 200px;
+    padding: 1em;   
+    margin: 10px; 
+    border-radius: 38px;
+    margin-left: 25em;
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.07);
+}
+.imgc{
+    width:400px;
+}
+.n1{
+    font-size:40px;
+}
+.n2{
+    font-size: 20px;
+}
+.bn2 {
+    background-color: white;
+    text-align: center;
+    width: 400px;
+    height: 450px;
+    left: 29px;
+    padding: 1em;   
+    margin: 2em; 
+    border-radius: 38px;
+    margin-left: 9em;
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.07);
+}
